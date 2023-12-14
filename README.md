@@ -1,4 +1,4 @@
-# Scenario Explorer Workflow Template
+# OpenMod4Africa workflow repository
 
 Copyright 2022-2023 IIASA
 
@@ -6,12 +6,9 @@ Copyright 2022-2023 IIASA
 
 ## Overview
 
-This is a template for project-specific scenario processing workflows.
+This is repository contains the variable template and model mappings for the OpenMod4Africa project.
 
-To use this template for a project, do the following:
-- Create a new repository from this template
-- Update the title and overview section of this Readme
-- Start adding definitions and mappings 
+This project makes use of the nomenclature definition import feature and imports the openENTRANCE variable template.
 
 ### Project nomenclature
 
