@@ -2,8 +2,6 @@ repositories:
   openENTRANCE:
     url: https://github.com/openENTRANCE/openentrance
 definitions:
-  region:
-    repository: openENTRANCE
   variable:
     repository: openENTRANCE
 mappings:
