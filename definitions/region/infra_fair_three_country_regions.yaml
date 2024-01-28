@@ -716,3 +716,62 @@
   - United Kingdom:Spain>Denmark
   - United Kingdom:Spain>Estonia
   - United Kingdom:Spain>Sweden
+  - Guniea:Mali>Guniea
+  - Côte d'Ivoire:Mali>Côte d'Ivoire
+  - Burkina Faso:Burkina Faso>Niger
+  - Guniea:Guniea>Sierra Leone
+  - Côte d'Ivoire:Côte d'Ivoire>Sierra Leone
+  - Ghana:Sierra Leone>Ghana
+  - Ghana:Liberia>Ghana
+  - Ghana:Ghana>Benin
+  - Ghana:Ghana>Togo
+  - Nigeria:Nigeria>Niger
+  - Nigeria:Nigeria>Benin
+  - Ghana:Benin>Togo
+  - Nigeria:Benin>Togo
+  - Senegal:Togo>Senegal
+  - Mali:Mali>Guniea
+  - Mali:Mali>Côte d'Ivoire
+  - Niger:Burkina Faso>Niger
+  - Sierra Leone:Guniea>Sierra Leone
+  - Sierra Leone:Côte d'Ivoire>Sierra Leone
+  - Sierra Leone:Sierra Leone>Ghana
+  - Liberia:Liberia>Ghana
+  - Benin:Ghana>Benin
+  - Togo:Ghana>Benin
+  - Togo:Ghana>Togo
+  - Niger:Nigeria>Niger
+  - Benin:Nigeria>Benin
+  - Togo:Nigeria>Benin
+  - Togo:Benin>Togo
+  - Togo:Togo>Senegal
+  - Rwanda:Burundi>Rwanda
+  - Uganda:Burundi>Uganda
+  - Tunisia:Tunisia>Libya
+  - Rwanda:Rwanda>Kenya
+  - Uganda:Uganda>Kenya
+  - Ethiopia:Kenya>Ethiopia
+  - Ethiopia:Djibouti>Ethiopia
+  - Ethiopia:Ethiopia>Sudan
+  - Ethiopia:Ethiopia>South Sudan
+  - Egypt:Egypt>Libya
+  - Egypt:Egypt>Sudan
+  - Ethiopia:Sudan>South Sudan
+  - Egypt:Sudan>South Sudan
+  - Democratic Republic of the Congo:South Sudan>Democratic Republic of the Congo
+  - Burundi:Burundi>Rwanda
+  - Burundi:Burundi>Uganda
+  - Libya:Tunisia>Libya
+  - Kenya:Rwanda>Kenya
+  - Kenya:Uganda>Kenya
+  - Kenya:Kenya>Ethiopia
+  - Djibouti:Djibouti>Ethiopia
+  - Sudan:Ethiopia>Sudan
+  - South Sudan:Ethiopia>Sudan
+  - South Sudan:Ethiopia>South Sudan
+  - Libya:Egypt>Libya
+  - Sudan:Egypt>Sudan
+  - South Sudan:Egypt>Sudan
+  - South Sudan:Sudan>South Sudan
+  - South Sudan:South Sudan>Democratic Republic of the Congo
+
