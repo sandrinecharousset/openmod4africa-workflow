@@ -9,6 +9,9 @@ Copyright 2022-2023 IIASA
 This is repository contains the variable template and model mappings for the OpenMod4Africa project.
 
 This project makes use of the nomenclature definition import feature and imports the openENTRANCE variable template.
+**Only the variables are imported from openENTRANCE**.
+For the regions the nomenclature functionality to automatically include all ISO 3166-1 countries
+is used.
 
 ### Project nomenclature
 
