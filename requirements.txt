@@ -1,2 +1,2 @@
 pyam-iamc >= 1.0  # the `pyam` package is released on pypi under this name
-nomenclature-iamc @ git+https://github.com/iamconsortium/nomenclature-iamc
+nomenclature-iamc @ git+https://github.com/iamconsortium/nomenclature.git
