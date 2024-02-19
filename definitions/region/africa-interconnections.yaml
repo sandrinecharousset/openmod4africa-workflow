@@ -6,7 +6,6 @@ common_regions:
   - Algeria>Niger
   - Algeria>Tunisia
   - Algeria>Western Sahara
-  - Angola>Congo
   - Angola>Democratic Republic of the Congo
   - Angola>Namibia
   - Angola>Zambia
@@ -22,7 +21,6 @@ common_regions:
   - Burkina Faso>Côte d'Ivoire
   - Burkina Faso>Ghana
   - Burkina Faso>Mali
-  - Burkina Faso>Mali
   - Burkina Faso>Niger
   - Burkina Faso>Togo
   - Burundi>Democratic Republic of the Congo
@@ -31,6 +29,7 @@ common_regions:
   - Cameroon>Central African Republic
   - Cameroon>Chad
   - Cameroon>Congo
+  - Cameroon>Equatorial Guinea
   - Cameroon>Gabon
   - Cameroon>Nigeria
   - Cameroon>Sao Tome and Principe
@@ -46,7 +45,6 @@ common_regions:
   - Chad>Niger
   - Chad>Nigeria
   - Chad>Sudan
-  - Congo>Angola
   - Congo>Cameroon
   - Congo>Central African Republic
   - Congo>Democratic Republic of the Congo
@@ -70,6 +68,8 @@ common_regions:
   - Djibouti>Somalia
   - Egypt>Libya
   - Egypt>Sudan
+  - Equatorial Guinea>Cameroon
+  - Equatorial Guinea>Gabon
   - Eritrea>Djibouti
   - Eritrea>Ethiopia
   - Eritrea>Sudan
@@ -81,8 +81,8 @@ common_regions:
   - Ethiopia>Sudan
   - Gabon>Cameroon
   - Gabon>Congo
+  - Gabon>Equatorial Guinea
   - Gabon>Sao Tome and Principe
-  - Gambia>Senegal
   - Gambia>Senegal
   - Ghana>Burkina Faso
   - Ghana>Côte d'Ivoire
@@ -108,8 +108,10 @@ common_regions:
   - Libya>Chad
   - Libya>Egypt
   - Libya>Niger
-  - Libya>Sudan
   - Libya>Tunisia
+  - Malawi>Mozambique
+  - Malawi>Tanzania
+  - Malawi>Zambia
   - Mali>Algeria
   - Mali>Burkina Faso
   - Mali>Côte d'Ivoire
@@ -124,10 +126,11 @@ common_regions:
   - Morocco>Algeria
   - Morocco>Western Sahara
   - Mozambique>South Africa
-  - Mozambique>Swaziland
+  - Mozambique>Eswatini
   - Mozambique>Tanzania
   - Mozambique>Zambia
   - Mozambique>Zimbabwe
+  - Mozambique>Malawi
   - Namibia>Angola
   - Namibia>Botswana
   - Namibia>South Africa
@@ -164,7 +167,7 @@ common_regions:
   - South Africa>Lesotho
   - South Africa>Mozambique
   - South Africa>Namibia
-  - South Africa>Swaziland
+  - South Africa>Eswatini
   - South Africa>Zimbabwe
   - South Sudan>Burundi
   - South Sudan>Central African Republic
@@ -179,10 +182,9 @@ common_regions:
   - Sudan>Egypt
   - Sudan>Eritrea
   - Sudan>Ethiopia
-  - Sudan>Libya
   - Sudan>South Sudan
-  - Swaziland>Mozambique
-  - Swaziland>South Africa
+  - Eswatini>Mozambique
+  - Eswatini>South Africa
   - Tanzania>Burundi
   - Tanzania>Democratic Republic of the Congo
   - Tanzania>Kenya
@@ -191,8 +193,8 @@ common_regions:
   - Tanzania>South Sudan
   - Tanzania>Uganda
   - Tanzania>Zambia
+  - Tanzania>Malawi
   - Togo>Benin
-  - Togo>Ghana
   - Togo>Ghana
   - Tunisia>Algeria
   - Tunisia>Libya
@@ -207,6 +209,7 @@ common_regions:
   - Zambia>Angola
   - Zambia>Botswana
   - Zambia>Democratic Republic of the Congo
+  - Zambia>Malawi
   - Zambia>Mozambique
   - Zambia>Namibia
   - Zambia>Tanzania
@@ -216,3 +219,9 @@ common_regions:
   - Zimbabwe>Namibia
   - Zimbabwe>South Africa
   - Zimbabwe>Zambia
+  - Morocco>Spain
+  - Spain>Morocco
+  - Egypt>Jordan
+  - Jordan>Egypt
+  - Egypt>Saudi Arabia
+  - Saudi Arabia>Egypt
